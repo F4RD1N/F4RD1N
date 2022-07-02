@@ -1,6 +1,6 @@
 hey:D im @F4RD1N
-im a ReactJS Developer
-my Telegram ID: @HiddenID
+<br/>im a ReactJS Developer
+<br/>my Telegram ID: <strong>@HiddenID</strong>
 
 
 <!---
