@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/F4RD1N/F4RD1N/blob/main/name.svg" alt="Marton Lederer" />
+</h1>
+
 ## Hey! 👋
 I'm Fardin, a 20 years old front-end developer from Iran.
 
