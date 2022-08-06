@@ -19,7 +19,7 @@ Strom Kala is an ecommerce app where you can find anything from a to z :)
 
 ## Screenshots
 
-`![StormKalaScreenshot](https://iili.io/UFFwwQ.png)`
+![StormKalaScreenshot](https://iili.io/UFFwwQ.png)
 
 ## Technologies
 I used `html`, `css`, ...
