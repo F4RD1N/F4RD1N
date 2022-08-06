@@ -3,8 +3,6 @@ Strom Kala
 
 ## Demo link:
 access my site at [storm-kala.vercel.app](https://storm-kala.vercel.app)
-<br />
-![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge)
 
 ## Table of Content:
 
