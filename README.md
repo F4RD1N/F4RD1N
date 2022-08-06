@@ -22,7 +22,10 @@ Strom Kala is an ecommerce app where you can find anything from a to z :)
 ![StormKalaScreenshot](https://iili.io/UFFwwQ.png)
 
 ## Technologies
-I used `html`, `css`, ...
+[![javascript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![react](https://img.shields.io/badge/React-%23327FC7.svg?style=flat-square&logo=react&logoColor=aDAFB&color=32363E)](https://reactjs.org/)
+[![css](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=1968a0)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![style-components](https://img.shields.io/badge/Styled--Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=DB7093)](https://styled-components.com/)
 
 ## Setup
 - Clone down this repository. You will need node and npm installed globally on your machine.
