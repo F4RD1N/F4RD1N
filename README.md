@@ -27,5 +27,5 @@ I'm Fardin, A Front-End Developer with team spirit and a passion for both person
 
 ## Contact
 - [@HiddenID](https://t.me/HiddenID) on Telegram
-- [@react.nick](https://instagram.com/react.nick) on Instagram
+- [fardin.tasou@gmail.com](mailto:fardin.tasou@gmail.com)
 - [NiCK#9147](./) on Discord
