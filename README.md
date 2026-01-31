@@ -24,8 +24,3 @@ This is Fardin, A Front-End Developer with team spirit and a passion for both pe
 <br />
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://helpx.adobe.com/xd/user-guide.html)
-
-## Contact
-- [@HiddenID](https://t.me/HiddenID) on Telegram
-- [fardin.tasou@gmail.com](mailto:fardin.tasou@gmail.com)
-- [NiCK#9147](./) on Discord
